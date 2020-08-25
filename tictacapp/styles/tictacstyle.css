@@ -1,0 +1,25 @@
+.buttonStyle
+{
+    padding: 0.5em;
+    /* display: inline-block; */
+    width: 50px;
+    height:40px;
+    margin:1;
+    margin-right: 2px;
+} 
+.firstBlock{
+    margin-left: 45%;
+    
+    
+}
+.textStyle{
+    margin: 0.5em;
+    width: 70%;
+}
+hr{
+    width:30em;
+}
+.hrStyle{
+    transform: rotate(90deg);
+    width:20em;
+}
